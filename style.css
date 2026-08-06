@@ -67,6 +67,10 @@ main a:hover{
 } 
 .link-nav{
     text-decoration: none;
+    background-color: #FFD273;
+    padding: 5px;
+    border-radius: 10px;
+
 }
 ul{
     font-size: 20px;
@@ -77,6 +81,7 @@ ul{
 }
 nav{
     margin-top: 15px;
+    margin-left: 40px;
 }
 
 h2{
